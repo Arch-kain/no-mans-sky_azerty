@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGameSettings">
+	<Property name="LanguageSetting" value="default" />
+	<Property name="KeyMapping">
+		<Property name="Player_Forward" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="122" />
+		</Property>
+		<Property name="Player_Back" value="GcInputActionMapping.xml" />
+		<Property name="Player_Left" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="113" />
+		</Property>
+		<Property name="Player_Right" value="GcInputActionMapping.xml" />
+		<Property name="Player_SwimUp" value="GcInputActionMapping.xml" />
+		<Property name="Player_SwimDown" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="Player_Interact" value="GcInputActionMapping.xml" />
+		<Property name="Player_Melee" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="Player_Scan" value="GcInputActionMapping.xml" />
+		<Property name="Player_Torch" value="GcInputActionMapping.xml" />
+		<Property name="Player_Binoculars" value="GcInputActionMapping.xml" />
+		<Property name="Player_Zoom" value="GcInputActionMapping.xml" />
+		<Property name="Player_ShowHUD" value="GcInputActionMapping.xml" />
+		<Property name="Player_Jump" value="GcInputActionMapping.xml" />
+		<Property name="Player_Run" value="GcInputActionMapping.xml" />
+		<Property name="Player_Shoot" value="GcInputActionMapping.xml" />
+		<Property name="Player_Grenade" value="GcInputActionMapping.xml" />
+		<Property name="Player_Reload" value="GcInputActionMapping.xml" />
+		<Property name="Player_ChangeWeapon" value="GcInputActionMapping.xml" />
+		<Property name="Quick_Menu" value="GcInputActionMapping.xml" />
+		<Property name="Build_Menu" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="119" />
+		</Property>
+		<Property name="Ship_Thrust" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="122" />
+		</Property>
+		<Property name="Ship_Brake" value="GcInputActionMapping.xml" />
+		<Property name="Ship_Boost" value="GcInputActionMapping.xml" />
+		<Property name="Ship_RollLeft" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="113" />
+		</Property>
+		<Property name="Ship_RollRight" value="GcInputActionMapping.xml" />
+		<Property name="Ship_Exit" value="GcInputActionMapping.xml" />
+		<Property name="Ship_Land" value="GcInputActionMapping.xml" />
+		<Property name="Ship_Shoot" value="GcInputActionMapping.xml" />
+		<Property name="Ship_ChangeWeapon" value="GcInputActionMapping.xml" />
+		<Property name="Ship_Scan" value="GcInputActionMapping.xml" />
+		<Property name="Ship_PulseJump" value="GcInputActionMapping.xml" />
+		<Property name="Ship_GalacticMap" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Forward" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="122" />
+		</Property>
+		<Property name="Vehicle_Reverse" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Brake" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Exit" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Shoot" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_ChangeWeapon" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Scan" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Boost" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Jump" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_Horn" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_AddCheckpoint" value="GcInputActionMapping.xml" />
+		<Property name="Vehicle_DeleteCheckpoint" value="GcInputActionMapping.xml" />
+		<Property name="Ship_TurnLeft" value="GcInputActionMapping.xml" />
+		<Property name="Ship_TurnRight" value="GcInputActionMapping.xml" />
+		<Property name="Ship_FreeLook" value="GcInputActionMapping.xml" />
+		<Property name="Player_Deconstruct" value="GcInputActionMapping.xml" />
+		<Property name="Player_ChangeAltWeapon" value="GcInputActionMapping.xml" />
+		<Property name="Player_PlaceMarker" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Select" value="GcInputActionMapping.xml" />
+		<Property name="Fe_SelectX" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Back" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Alt1" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Alt1X" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Transfer" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Destroy" value="GcInputActionMapping.xml" />
+		<Property name="Gm_Select" value="GcInputActionMapping.xml" />
+		<Property name="Gm_Restart" value="GcInputActionMapping.xml" />
+		<Property name="UI_Left" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="113" />
+		</Property>
+		<Property name="UI_Right" value="GcInputActionMapping.xml" />
+		<Property name="UI_Left_Sub" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="UI_Right_Sub" value="GcInputActionMapping.xml" />
+		<Property name="UI_Down_Sub" value="GcInputActionMapping.xml" />
+		<Property name="UI_Up_Sub" value="GcInputActionMapping.xml" />
+		<Property name="UI_NetworkPageShortcut" value="GcInputActionMapping.xml" />
+		<Property name="UI_StackSplitUp" value="GcInputActionMapping.xml" />
+		<Property name="UI_StackSplitDown" value="GcInputActionMapping.xml" />
+		<Property name="Fe_ExitMenu" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Options" value="GcInputActionMapping.xml" />
+		<Property name="Fe_Quit" value="GcInputActionMapping.xml" />
+		<Property name="Fe_MsgSkip" value="GcInputActionMapping.xml" />
+		<Property name="Quick_Left" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="Quick_Right" value="GcInputActionMapping.xml" />
+		<Property name="Quick_Action" value="GcInputActionMapping.xml" />
+		<Property name="Quick_PlaceShipAction" value="GcInputActionMapping.xml" />
+		<Property name="Quick_Back" value="GcInputActionMapping.xml" />
+		<Property name="Build_Place" value="GcInputActionMapping.xml" />
+		<Property name="Build_Rotate_Left" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="Build_Rotate_Right" value="GcInputActionMapping.xml" />
+		<Property name="Build_Delete" value="GcInputActionMapping.xml" />
+		<Property name="Build_Set_Up" value="GcInputActionMapping.xml" />
+		<Property name="Build_Set_Down" value="GcInputActionMapping.xml" />
+		<Property name="Build_Toggle_Info" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Scan" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Move" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Push_Select" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Home" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_PlanetBase" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Accelerate" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Deselect" value="GcInputActionMapping.xml" />
+		<Property name="Galaxy_Select" value="GcInputActionMapping.xml" />
+		<Property name="Photo_Hide" value="GcInputActionMapping.xml" />
+		<Property name="Photo_Sun" value="GcInputActionMapping.xml" />
+		<Property name="Photo_Cam" value="GcInputActionMapping.xml" />
+		<Property name="Photo_Exit" value="GcInputActionMapping.xml" />
+		<Property name="Photo_CamDown" value="GcInputActionMapping.xml" />
+		<Property name="Photo_CamUp" value="GcInputActionMapping.xml" />
+		<Property name="Photo_Capture" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_Camera" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_Planet" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_System" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_Photo" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_NxtSong" value="GcInputActionMapping.xml" />
+		<Property name="Ambient_Spawn" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_Edit" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_SwitchMode" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_Menu" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_Undo" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_SizeUp" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_SizeDown" value="GcInputActionMapping.xml" />
+		<Property name="Terrain_RotTerrainLeft" value="GcInputActionMapping.xml">
+			<Property name="RemappedKey" value="97" />
+		</Property>
+		<Property name="Terrain_RotTerrainRight" value="GcInputActionMapping.xml" />
+	</Property>
+</Data>
