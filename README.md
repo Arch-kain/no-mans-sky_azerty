@@ -4,7 +4,11 @@ Il est possible de changer l'attribution des touches du jeu via le fichier :
 
 > Steam\steamapps\common\No Man's Sky\Binaries\SETTINGS\TKGAMESETTINGS.MXML
 
-## Modification
+## Installation
+
+Remplacer le fichier **TKGAMESETTINGS.MXML** par celui du dépôt.
+
+## Modification manuelle
 
 Il faut ajouter la propriété **RemappedKey** avec la [valeur ASCII](http://sebastienguillon.com/test/jeux-de-caracteres/windows-ascii-fr.html) qui correspond à la touche souhaitée.
 
