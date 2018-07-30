@@ -87,7 +87,7 @@
 		</Property>
 		<Property name="UI_Right_Sub" value="GcInputActionMapping.xml" />
 		<Property name="UI_Down_Sub" value="GcInputActionMapping.xml" />
-		<Property name="UI_Up_Sub" value="GcInputActionMapping.xml" />
+		<Property name="UI_Up_Sub" value="GcInputActionMapping.xml">
 			<Property name="RemappedKey" value="122" />
 		</Property>
 		<Property name="UI_NetworkPageShortcut" value="GcInputActionMapping.xml" />
